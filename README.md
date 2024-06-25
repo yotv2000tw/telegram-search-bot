@@ -18,7 +18,7 @@ Telegram's built-in search supports only whole sentences for languages like CJK,
 - Searching group chat messages by multiple keywords (with pagination)
 - Locating message positions
 - Command control with restrictions
-- Supporting queries across multiple groups (determining whether the user is a group member)
+- Supporting queries across multiple groups (determining whether the user is a group member, including searching)
 - Supporting username search
 - Synchronizing database updates after message edits
 
