@@ -151,7 +151,7 @@ def inline_caps(update, context):
     if len(filter_chats) == 0:
         results = []
         num = 0
-        for i in range(20):
+        for i in range(1):
             results.append(
                 InlineQueryResultCachedSticker(
                     id=f'unauthorized_sticker_{str(num)}',
